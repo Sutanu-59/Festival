@@ -1,0 +1,37 @@
+<html>
+<head><title>DIWALI</title>
+</head>
+<body background="back4.jpg">
+<table border="0" >
+<tr>
+<td bgcolor="pink"><font color="#075A9F ">
+<h3>--::DIWALI:::--</h3>
+Diwali (English: /dɪˈwɑːliː/; Deepavali[3] (IAST: dīpāvalī) or Divali; related to Jain Diwali, Bandi Chhor Divas, Tihar, Swanti, Sohrai and Bandna) is the Hindu festival of lights with its variations also celebrated in other Indian religions. It symbolises the spiritual "victory of light over darkness, good over evil, and knowledge over ignorance".[4][5][6][7] Diwali is celebrated during the Hindu lunisolar months of Ashvin (according to the amanta tradition) and Kartika (between mid-October and mid-November).[8][9][10][11] In Hinduism it generally lasts five or six days.
+</font></td>
+<td><img src="dw pic.jfif" height="200" width="200"></td>
+</tr>
+<tr>
+<td colspan="2">
+<marquee bgcolor="orange" behavior="alternate">
+<img src="dw pic1.jpg" height="100" width="100">
+<img src="dw pic2.jpg" height="100" width="100">
+<img src="dw pic3.jfif" height="100" width="100">
+<img src="dw pic4.avif" height="100" width="100">
+<img src="dw pic5.jpg" height="100" width="100">
+<img src="dw pic6.jfif" height="100" width="100">
+<img src="dw pic7.jpg" height="100" width="100">
+<img src="dw pic8.jfif" height="100" width="100">
+<img src="dw pic9.jfif" height="100" width="100">
+<img src="dw pic10.jpg" height="100" width="100">
+</marquee>
+</td>
+</tr>
+<tr>
+<td colspan="2" bgcolor="blue "><font color="pink">Diwali is also a major cultural event for the Hindu, Sikh, and Jain diaspora.[28][29][30] The main day of the festival of Diwali (the day of Lakshmi Puja) is an official holiday in Fiji,[31] Guyana,[32] India, Malaysia,[a][33] Mauritius, Myanmar,[34] Nepal,[35] Pakistan,[36] Singapore,[37] Sri Lanka, Suriname, and Trinidad and Tobago.</font></td>
+</tr>
+<tr>
+<td colspan="2"><center><font color="#FDFDFD">HOME</font></center></td>
+</tr>
+</table>
+</body>
+</html>

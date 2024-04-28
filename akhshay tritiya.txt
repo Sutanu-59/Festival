@@ -1,0 +1,37 @@
+<html>
+<head><title>AKHSHAY TRITIYA</title>
+</head>
+<body background="back.jpg">
+<table border="0" >
+<tr>
+<td bgcolor="#F5A8E5"><font color="red">
+<h3>--:::AKHSHAY TRITIYA:::--</h3>
+Akshaya Tritiya is believed to bring good luck and success. Many people buy Gold on this day as it is believed that buying Gold on Akshaya Tritiya brings prosperity and more wealth. It is beleived that Gold bought on this day will never diminish and would continue to grow.
+</font></td>
+<td><img src="AT pic.jfif" height="200" width="200"></td>
+</tr>
+<tr>
+<td colspan="2">
+<marquee bgcolor="#EB9A19 ">
+<img src="hj pic1.jpg" height="100" width="100">
+<img src="hj pic2.jfif" height="100" width="100">
+<img src="hj pic3.avif" height="100" width="100">
+<img src="hj pic4.jfif" height="100" width="100">
+<img src="hj pic5.jfif" height="100" width="100">
+<img src="hj pic6.jpeg" height="100" width="100">
+<img src="hj pic7.avif" height="100" width="100">
+<img src="hj pic8.jfif" height="100" width="100">
+<img src="hj pic9.jpg" height="100" width="100">
+<img src="hj pic10.jfif" height="100" width="100">
+</marquee>
+</td>
+</tr>
+<tr>
+<td colspan="2" bgcolor="#85EB19 "><font color="red">In As Akshaya means the one that never diminishes, May this day bring you Good Luck, success, prosperity which never diminishes. Happy Akshaya Tritiya.</font></td>
+</tr>
+<tr>
+<td colspan="2"><center><font color="#FDFDFD">HOME</font></center></td>
+</tr>
+</table>
+</body>
+</html>
